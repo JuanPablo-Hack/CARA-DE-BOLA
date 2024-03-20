@@ -1,0 +1,13 @@
+.carga {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -130px;
+  margin-top: -200px;
+  padding: 5px;
+}
+.contenido {
+  display: none;
+}
