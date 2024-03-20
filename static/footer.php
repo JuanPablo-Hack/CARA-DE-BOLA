@@ -47,8 +47,8 @@
         </div>
     </div>
     <div class="container-fluid py-4 px-sm-3 px-md-5" style="background: #111111;">
-        <p class="mb-2 text-center text-white-50">&copy; <a href="#">Cara de Bola</a>. All Rights Reserved.</p>
-        <p class="m-0 text-center text-white-50">Designed by <a href="https://htmlcodex.com">HTML Codex</a></p>
+        <p class="mb-2 text-center text-white-50">&copy; <a href="#">Cara de Bola</a>. Todos los derechos reservados.</p>
+        <p class="m-0 text-center text-white-50">Diseñado por <a href="https://jupitersoft.tech/">Jupiter Soft Tech</a></p>
     </div>
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="fa fa-angle-up"></i></a>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
